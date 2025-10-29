@@ -1,3 +1,8 @@
 Jestem Bartek, kocham zmienne zmiennoprzecinkowe
 VAAAA
 That is downright silly
+<<<<<<< HEAD
+=======
+O nie on ma papier
+Hehe bartek
+>>>>>>> 045bcb7d5fee7797ee89db14de82b5d69aac1ca4
