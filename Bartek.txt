@@ -1,5 +1,12 @@
 Jestem Bartek, kocham zmienne zmiennoprzecinkowe
 VAAAA
+<<<<<<< HEAD
 That is downright silly, isn't it?
+=======
+That is downright silly
+<<<<<<< HEAD
+=======
+>>>>>>> c2010a9dac84006821bd5a75c3f1693280e95033
 O nie on ma papier
 Hehe bartek
+>>>>>>> 045bcb7d5fee7797ee89db14de82b5d69aac1ca4
